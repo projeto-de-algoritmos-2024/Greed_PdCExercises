@@ -49,7 +49,6 @@ python <arquivo_a_interpretar>
 | [Make it Connected](https://codeforces.com/problemset/problem/1095/F) | 1095F | Difícil | Caio |
 | [Reverse the Rivers](https://codeforces.com/problemset/problem/2036/E) | 2036E | Difícil | Caio |
 | [Minimum Number of Operations to Make Arrays Similar](https://leetcode.com/problems/minimum-number-of-operations-to-make-arrays-similar/) | 2449 | Difícil | Arthur |
-| [Minimum Number of Operations to Make Arrays Similar](https://leetcode.com/problems/minimum-number-of-operations-to-make-arrays-similar/) | 2449 | Difícil | Arthur |
 
 ## Vídeos de explicação das Soluções
 
